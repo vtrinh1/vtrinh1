@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Western Sydney University.
 - 💼 &nbsp; Junior Frontend Developer at BTC.com.au.
-- 🌱 &nbsp; Learning more about Mobile Development.
+- 🌱 &nbsp; Learning more about mobile development.
 - ✍️ &nbsp; Love everything web, frontend and backend.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -23,6 +23,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=react)
+  ![Vue](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=vue)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)

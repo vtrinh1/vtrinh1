@@ -23,7 +23,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=vue)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)

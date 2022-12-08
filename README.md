@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Western Sydney University.
-- 💼 &nbsp; Junior Frontend Developer at BTC.com.au.
 - 🌱 &nbsp; Learning more about mobile development.
 - ✍️ &nbsp; Love everything web, frontend and backend.
 
